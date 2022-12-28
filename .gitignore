@@ -1,0 +1,5 @@
+./images/*
+./instance_segmentation/*
+./bounding_box/*
+*.txt
+*.png
